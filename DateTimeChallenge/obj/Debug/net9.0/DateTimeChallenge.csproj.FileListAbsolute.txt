@@ -1,0 +1,14 @@
+C:\Users\moham\OneDrive\Documents\a_Programming\IAMTIMCOREY\ProveIt_CSharpBasics\DateTimeChallengeApp\DateTimeChallenge\bin\Debug\net9.0\DateTimeChallenge.exe
+C:\Users\moham\OneDrive\Documents\a_Programming\IAMTIMCOREY\ProveIt_CSharpBasics\DateTimeChallengeApp\DateTimeChallenge\bin\Debug\net9.0\DateTimeChallenge.deps.json
+C:\Users\moham\OneDrive\Documents\a_Programming\IAMTIMCOREY\ProveIt_CSharpBasics\DateTimeChallengeApp\DateTimeChallenge\bin\Debug\net9.0\DateTimeChallenge.runtimeconfig.json
+C:\Users\moham\OneDrive\Documents\a_Programming\IAMTIMCOREY\ProveIt_CSharpBasics\DateTimeChallengeApp\DateTimeChallenge\bin\Debug\net9.0\DateTimeChallenge.dll
+C:\Users\moham\OneDrive\Documents\a_Programming\IAMTIMCOREY\ProveIt_CSharpBasics\DateTimeChallengeApp\DateTimeChallenge\bin\Debug\net9.0\DateTimeChallenge.pdb
+C:\Users\moham\OneDrive\Documents\a_Programming\IAMTIMCOREY\ProveIt_CSharpBasics\DateTimeChallengeApp\DateTimeChallenge\obj\Debug\net9.0\DateTimeChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\OneDrive\Documents\a_Programming\IAMTIMCOREY\ProveIt_CSharpBasics\DateTimeChallengeApp\DateTimeChallenge\obj\Debug\net9.0\DateTimeChallenge.AssemblyInfoInputs.cache
+C:\Users\moham\OneDrive\Documents\a_Programming\IAMTIMCOREY\ProveIt_CSharpBasics\DateTimeChallengeApp\DateTimeChallenge\obj\Debug\net9.0\DateTimeChallenge.AssemblyInfo.cs
+C:\Users\moham\OneDrive\Documents\a_Programming\IAMTIMCOREY\ProveIt_CSharpBasics\DateTimeChallengeApp\DateTimeChallenge\obj\Debug\net9.0\DateTimeChallenge.csproj.CoreCompileInputs.cache
+C:\Users\moham\OneDrive\Documents\a_Programming\IAMTIMCOREY\ProveIt_CSharpBasics\DateTimeChallengeApp\DateTimeChallenge\obj\Debug\net9.0\DateTimeChallenge.dll
+C:\Users\moham\OneDrive\Documents\a_Programming\IAMTIMCOREY\ProveIt_CSharpBasics\DateTimeChallengeApp\DateTimeChallenge\obj\Debug\net9.0\refint\DateTimeChallenge.dll
+C:\Users\moham\OneDrive\Documents\a_Programming\IAMTIMCOREY\ProveIt_CSharpBasics\DateTimeChallengeApp\DateTimeChallenge\obj\Debug\net9.0\DateTimeChallenge.pdb
+C:\Users\moham\OneDrive\Documents\a_Programming\IAMTIMCOREY\ProveIt_CSharpBasics\DateTimeChallengeApp\DateTimeChallenge\obj\Debug\net9.0\DateTimeChallenge.genruntimeconfig.cache
+C:\Users\moham\OneDrive\Documents\a_Programming\IAMTIMCOREY\ProveIt_CSharpBasics\DateTimeChallengeApp\DateTimeChallenge\obj\Debug\net9.0\ref\DateTimeChallenge.dll
