@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DateTimeChallenge")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+86ba587138b4b5625eb75ab930b8887d8a265300")]
 [assembly: System.Reflection.AssemblyProductAttribute("DateTimeChallenge")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DateTimeChallenge")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
